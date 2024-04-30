@@ -1,7 +1,7 @@
-**Project Name:** Movie Hub
+**Project Name:** MovieFlix
 
 ## Description
-Movie Hub is a React website designed to provide users with access to a curated list of upcoming, popular, and top-rated movies. Users can easily navigate through the website to discover new movies and explore detailed information about each movie. 
+MovieFlix is a React website designed to provide users with access to a curated list of upcoming, popular, and top-rated movies. Users can easily navigate through the website to discover new movies and explore detailed information about each movie. 
 
 ## Features
 1. **Upcoming Movies**: Browse a list of upcoming movies.
